@@ -9,6 +9,11 @@ Since when did SLMP3 exist?
 Around 2 of April of 2025.
 
 DONATE
+
 As of now, we only accept BTC donations.
 Bitcoin Address:
 3Q25kc4DnVWLUEqumGciYzcrZaV8ZGpnLL
+
+CONTACT
+
+Contacting SLMP3 is available via the e-mail address slmp3contact@gmail.com
