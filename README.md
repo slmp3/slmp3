@@ -1,5 +1,5 @@
 What is SLMP3? (As of 2026)
-SLMP3 is a Group (Private) dedicated to Making projects, that can be used as useful tools. and all of them here are open-sourced.
+SLMP3 is a Group (Private) dedicated to Making projects, that can be used as useful tools. and all of them here are open-source.
 
 what does "SLMP3" Mean?
 it does not have a single "meaning".
